@@ -1,4 +1,5 @@
-# Laurel
+# Dynamic Landing Page
+### By Jatin
 
 A landing page template.
 
